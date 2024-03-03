@@ -1,4 +1,5 @@
 .venv/
 .ipynb_checkpoints/
 .idea/
+additional_files/
 pep8.py
